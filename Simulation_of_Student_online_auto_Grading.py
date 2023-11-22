@@ -1,6 +1,6 @@
 import turtle
 import random
-
+#Code originally written by Norbert.
 # Part (i): Program Design
 
 # Name: Your Name
